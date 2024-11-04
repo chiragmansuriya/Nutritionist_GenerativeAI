@@ -37,6 +37,7 @@ image = ""
 if uploaded_file is not None:
     image = Image.open(uploaded_file)
     st.image(image, caption="Uploaded Image", use_column_width=True )
+    
 submit = st.button("Tell me about the total calories")
 input_prompt = """
 You are an expert in nutritionist where you need to see the food items from
