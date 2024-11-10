@@ -19,4 +19,6 @@ Run the below command in terminal, from your project folder: <br>
 ### Step 5- Launch streamlit app
 `streamlit run Nutritionist_GenerativeAI.py`
 
+### Live Demo
+https://nutritionistgenerativeai-8xnpdz9qwrmbd3uxccfysy.streamlit.app/
 
